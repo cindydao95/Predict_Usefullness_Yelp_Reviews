@@ -1,5 +1,10 @@
 # Predict_Usefullness_Yelp_Reviews
 
+Abstract
+Online review strongly influences potential customers on the buying products or service decision. However, many online reviews are found as fake or not useful reviews for customers. It means the reviews does not reflect the real value of business. There are many research papers which have determined the features to predict whether the reviews are fake or not. Besides that, some papers have evaluated the helpfulness or usefulness of the reviews. They use different types of platforms such as, reviews from Yelp, TripAdvisor, Amazon, etc on different areas like, restaurant, hotels, or service. This research mainly focuses on evaluating the usefulness of reviews from restaurant in Texas. 
+
+
+
 Part 1.	Collect/Download datasets from Yelp
 
 		3 Files: “yelp_academic_dataset_business.json”, “yelp_academic_dataset_review.json”, and “yelp_academic_dataset_user.json”.
